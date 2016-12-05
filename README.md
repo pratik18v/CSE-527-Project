@@ -8,8 +8,9 @@ The original code which we plan on modifying is available at https://github.com/
 
 ## **Proposed Architecture**
 
-![Network Architecture](https://github.com/pratik18v/CSE-527-Project/blob/master/milestone%20report%20latex%20source%20code/figs/network_arch.jpg)
+![Network Architecture](https://github.com/pratik18v/CSE-527-Project/blob/master/network_arch.png)
 
 ## **Results for 1/10th dataset (CIFAR-10), running for 100 iters**
-![Result Graph](https://github.com/pratik18v/CSE-527-Project/blob/master/results/resultfig_smalldata_100iter.png)
-# CSE-527-Project
+![Result Graph](https://github.com/pratik18v/CSE-527-Project/blob/master/graphs1_10.png)
+## **Results for half dataset (CIFAR-10), running for 100 iters**
+![Result Graph](https://github.com/pratik18v/CSE-527-Project/blob/master/graphs1_2.png)
