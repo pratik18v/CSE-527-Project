@@ -1,4 +1,4 @@
-# **CSE-527, Introduction to Computer Vision**
+# **CSE-527, Introduction to Computer Vision - Project**
 
 ## **Introduction**
 
