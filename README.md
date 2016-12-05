@@ -14,3 +14,8 @@ The original code which we plan on modifying is available at https://github.com/
 ![Result Graph](https://github.com/pratik18v/CSE-527-Project/blob/master/graphs1_10.png)
 ## **Results for half dataset (CIFAR-10), running for 100 iters**
 ![Result Graph](https://github.com/pratik18v/CSE-527-Project/blob/master/graphs1_2.png)
+## **Results for full dataset (CIFAR-10), running for 200 iters**
+![Result Graph](https://github.com/pratik18v/CSE-527-Project/blob/master/graphs_full_200.png)
+
+## **Results Table**
+![Result Graph](https://github.com/pratik18v/CSE-527-Project/blob/master/results_table.png)
